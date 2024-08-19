@@ -7,6 +7,9 @@ Kyungpoook National University, South Korea
 **Team Name:** VOICE  
 **Members:** Suyong Park, Jiwoo Oh, Chanhyuk Lee, Junghyo Kim, Hyeonjeong Kim, Sebin Jung, Ginyeong Yang, Dongryeol Won
 
+## Qualifying Match Video
+[Youtube Link](https://youtu.be/fgEqlnd90-g)
+
 ## User Guide
 
 - Run `Autonomous_Drive.py` (No need to run any other file. All libraries and modules contained inside. Please place all files in the same folder and run.)
